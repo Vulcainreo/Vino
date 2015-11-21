@@ -1,0 +1,23 @@
+.matriceRangement
+{
+	text-align: center;
+}
+
+.photo
+{
+	width: 20px;
+}
+
+.positionBouteille
+{
+	width: 20px;
+	height: 20px;
+	background-image: url(/vino/lib/img/emplacement_bouteille.png);
+}
+
+.positionVide
+{
+	width: 20px;
+	height: 20px;
+	background-image:url(/vino/lib/img/emplacement_vide.png);
+}
