@@ -86,6 +86,7 @@
 		<tr>
 			<td><label for="emplacement">Emplacement</label></td>
 			<td>
+				<input id="emplacement" name="emplacement" type="hidden"/>
 				<?php 
 					$matrice->setTaille(4,4);
 					$matrice->affiche(); 

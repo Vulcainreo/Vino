@@ -42,7 +42,7 @@
 		public function affiche()
 		{
 			echo '<h4>'.$this->arrayNom.'</h4>';
-			echo '<table class="matriceRangement">';
+			echo '<table id="matriceRangement" onclick="matriceClick(event)">';
 			for ($i = -1; $i <= $this->maxX+1; $i++) {
 			    echo '<tr class="matriceY">';
 	    		for ($j = 0; $j <= $this->maxY; $j++) {

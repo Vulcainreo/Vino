@@ -39,6 +39,10 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
     <link rel="shortcut icon" href="../assets/ico/favicon.png">
+
+    <script type="text/javascript" src="lib/js/jquery.js"></script>
+    <script type="text/javascript" src="lib/js/bootstrap.js"></script>
+    <script type="text/javascript" src="lib/js/vino.js"></script>
   </head>
 
   <body>
@@ -61,9 +65,7 @@
       ?>
     </div> <!-- /container -->
 
-    <script src="lib/js/jquery.js"></script>
-    <script src="lib/js/bootstrap.js"></script>
-     <script src="lib/js/vino.js"></script>
+    
 
   </body>
 </html>
